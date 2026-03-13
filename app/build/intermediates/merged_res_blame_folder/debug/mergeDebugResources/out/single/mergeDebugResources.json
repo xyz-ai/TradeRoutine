@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.traderoutine.app-debug-64:/drawable_ic_today.xml.flat",
+        "source": "com.traderoutine.app-main-66:/drawable/ic_today.xml"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/drawable_ic_settings.xml.flat",
+        "source": "com.traderoutine.app-main-66:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/drawable_ic_calendar.xml.flat",
+        "source": "com.traderoutine.app-main-66:/drawable/ic_calendar.xml"
+    }
+]

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gray_100
+color gray_500
+color green_500
+color white
+color yellow_500
+drawable ic_calendar
+drawable ic_settings
+drawable ic_today
+string app_name
+style Theme.TradeRoutine
