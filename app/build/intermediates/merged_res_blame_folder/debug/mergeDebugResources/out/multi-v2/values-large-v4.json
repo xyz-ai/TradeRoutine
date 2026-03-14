@@ -4,7 +4,7 @@
             "outputFile": "com.traderoutine.app-mergeDebugResources-62:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\9.0-milestone-1\\transforms\\99ee22ae36412c1a69f544bf2f49b3a0\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-4\\5682dd3d3d3b3736c5d07378bfd9dfe7\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
