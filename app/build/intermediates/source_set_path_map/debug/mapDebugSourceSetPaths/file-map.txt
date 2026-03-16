@@ -58,10 +58,9 @@ com.traderoutine.app-material-ripple-release-56 C:\Users\Administrator\.gradle\c
 com.traderoutine.app-lifecycle-viewmodel-savedstate-2.8.4-57 C:\Users\Administrator\.gradle\caches\transforms-4\fb1a9fec1323591d9ca1b5ae8d522f75\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
 com.traderoutine.app-navigation-common-2.7.7-58 C:\Users\Administrator\.gradle\caches\transforms-4\fe0bfa0d5983e4510a88f46c7299367f\transformed\navigation-common-2.7.7\res
 com.traderoutine.app-lifecycle-livedata-2.8.4-59 C:\Users\Administrator\.gradle\caches\transforms-4\fefb365811d30cd95537de334af25df0\transformed\lifecycle-livedata-2.8.4\res
-com.traderoutine.app-pngs-60 E:\TradeRoutine\app\build\generated\res\pngs\debug
-com.traderoutine.app-resValues-61 E:\TradeRoutine\app\build\generated\res\resValues\debug
-com.traderoutine.app-packageDebugResources-62 E:\TradeRoutine\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.traderoutine.app-packageDebugResources-63 E:\TradeRoutine\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.traderoutine.app-debug-64 E:\TradeRoutine\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.traderoutine.app-debug-65 E:\TradeRoutine\app\src\debug\res
-com.traderoutine.app-main-66 E:\TradeRoutine\app\src\main\res
+com.traderoutine.app-resValues-60 E:\TradeRoutine\app\build\generated\res\resValues\debug
+com.traderoutine.app-packageDebugResources-61 E:\TradeRoutine\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.traderoutine.app-packageDebugResources-62 E:\TradeRoutine\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.traderoutine.app-debug-63 E:\TradeRoutine\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.traderoutine.app-debug-64 E:\TradeRoutine\app\src\debug\res
+com.traderoutine.app-main-65 E:\TradeRoutine\app\src\main\res
