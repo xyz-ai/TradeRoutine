@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-14:12
-INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-14:12
-INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-14:12
-INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-14:12
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-16:12
+INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:1-16:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\ASUS\.gradle\caches\transforms-4\fe0bfa0d5983e4510a88f46c7299367f\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\ASUS\.gradle\caches\transforms-4\ab1f5857df2cdd9ec92205362f09a229\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\ASUS\.gradle\caches\transforms-4\938d43e392aa6764573d52ba27c67c88\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
@@ -85,8 +85,8 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS\.gradle\caches\transf
 	xmlns:android
 		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:2:5-13:19
-INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:2:5-13:19
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:2:5-15:19
+INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:2:5-15:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\ASUS\.gradle\caches\transforms-4\6eeb287f86f81a3982838f69de2024a5\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\ASUS\.gradle\caches\transforms-4\6eeb287f86f81a3982838f69de2024a5\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ASUS\.gradle\caches\transforms-4\8d265db809aefe6ba535572b60a1cbcb\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
@@ -109,24 +109,28 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\.gradle\cache
 		ADDED from [androidx.core:core:1.13.0] C:\Users\ASUS\.gradle\caches\transforms-4\93c596391698930c3c721886493ee913\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:label
 		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:3:9-37
+	android:roundIcon
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:5:9-54
+	android:icon
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:4:9-43
 	android:theme
-		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:4:9-50
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:6:9-50
 activity#com.traderoutine.MainActivity
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:5:9-12:20
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:7:9-14:20
 	android:exported
-		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:7:13-36
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:9:13-36
 	android:name
-		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:6:13-41
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:8:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:8:13-11:29
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:10:13-13:29
 action#android.intent.action.MAIN
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:9:17-69
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:11:17-69
 	android:name
-		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:9:25-66
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:11:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:10:17-77
+ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:12:17-77
 	android:name
-		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:10:27-74
+		ADDED from E:\TradeRoutine\app\src\main\AndroidManifest.xml:12:27-74
 uses-sdk
 INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\TradeRoutine\app\src\main\AndroidManifest.xml

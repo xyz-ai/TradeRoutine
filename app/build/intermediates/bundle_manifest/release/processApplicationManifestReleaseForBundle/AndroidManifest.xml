@@ -17,7 +17,9 @@
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
         android:label="TradeRoutine"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:theme="@style/Theme.TradeRoutine" >
         <activity
             android:name="com.traderoutine.MainActivity"
