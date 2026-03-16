@@ -1,14 +1,86 @@
 [
     {
-        "merged": "com.traderoutine.app-debug-64:/drawable_ic_today.xml.flat",
-        "source": "com.traderoutine.app-main-66:/drawable/ic_today.xml"
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.traderoutine.app-debug-64:/drawable_ic_settings.xml.flat",
-        "source": "com.traderoutine.app-main-66:/drawable/ic_settings.xml"
+        "merged": "com.traderoutine.app-debug-64:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.traderoutine.app-debug-64:/drawable_ic_calendar.xml.flat",
-        "source": "com.traderoutine.app-main-66:/drawable/ic_calendar.xml"
+        "merged": "com.traderoutine.app-debug-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.traderoutine.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-debug-64:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-main-66:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-debug-64:\\drawable_ic_today.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-main-66:\\drawable\\ic_today.xml"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-debug-64:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.traderoutine.app-main-66:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.traderoutine.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.traderoutine.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.traderoutine"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionCode="2"
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="26"
-        android:targetSdkVersion="34" />
+        android:targetSdkVersion="35" />
 
     <permission
         android:name="com.traderoutine.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -19,6 +19,7 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:label="TradeRoutine"
+        android:testOnly="true"
         android:theme="@style/Theme.TradeRoutine" >
         <activity
             android:name="com.traderoutine.MainActivity"
